@@ -8,19 +8,16 @@
 </p>
 
 <!-- Bio -->
-```python
-# "I build user-friendly web interfaces and decode data to reveal insights."
-🔭 I’m currently working on a React.js Portfolio Website
 
-🌱 Learning & exploring: React | Power BI | Excel Automation | Python for Data
+I build user-friendly web interfaces and decode data to reveal insights
 
-🧠 Strengths: Frontend Web Development, Data Visualization, MIS Reporting
+🌱 Learning & exploring: React | Power BI | Excel Automation | Python for Data.
 
-🛠️ Tools I use: VS Code, GitHub, Excel, Power BI, Python, TailwindCSS
+🧠 Strengths: Frontend Web Development, Data Visualization, MIS Reporting.
 
-👨‍💻 Most recent project: Saathi – Smart Farming App
+🛠️ Tools I use: VS Code, GitHub, Excel, Power BI, Python, TailwindCSS.
 
-📫 Reach me on LinkedIn or abhinandan@example.com
+📫 Reach me on LinkedIn
 
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,mysql,mongodb,excel,tableau,powerbi,github,vscode" /> </p>
