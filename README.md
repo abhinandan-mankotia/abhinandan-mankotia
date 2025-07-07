@@ -1,48 +1,58 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Abhinandan Mankotia</h1>
-<h3 align="center">Frontend Web Developer | Data Analyst | B.Tech CSE Graduate</h3>
+<h1 align="center">Hi, I'm Abhinandan Mankotia 👋</h1>
+<h3 align="center">Aspiring Data Analyst & Frontend Web Developer | Available for full-time roles</h3>
 
-<!-- Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinandan-mankotia&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandan-mankotia" />
+---
+
+### 👨‍🎓 Education
+
+- **B.Tech in Computer Science and Engineering**  
+  *Bundelkhand University Jhansi* | *Graduated: 2024*
+
+---
+
+### 💼 Skills & Tools
+
+**Languages:**  
+`Python` `SQL` `JavaScript` `HTML` `CSS`
+
+**Libraries & Frameworks:**  
+`React.js` `Tailwind CSS` 
+
+**Tools & Platforms:**  
+`Power BI` `Tableau` `Advanced Excel` `VBA` `Git` `GitHub`
+
+**Databases:**  
+`MySQL` `MongoDB`
+
+---
+
+### 🚀 College Final Year Project
+
+**🔗 [Saathi – Smart Farming Assistant](https://saathi-2.vercel.app/)**  
+A web application designed to assist farmers by identifying crop diseases through image input and providing insights like soil health prediction, weather forecasting, and hydrochemical analysis.  
+The app supports multiple regional languages for accessibility.
+
+**My Contributions:**  
+- Developed the frontend interface using React.js  
+- Integrated multi-language support for regional accessibility  
+- Collaborated on UI/UX design and visual content presentation
+
+---
+
+### 📬 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhinandan-mankotia" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:rabhinandan03@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" />
+  </a>
 </p>
 
-<!-- Bio -->
+---
 
-I build user-friendly web interfaces and decode data to reveal insights
-
-🌱 Learning & exploring: React | Power BI | Excel Automation | Python for Data.
-
-🧠 Strengths: Frontend Web Development, Data Visualization, MIS Reporting.
-
-🛠️ Tools I use: VS Code, GitHub, Excel, Power BI, Python, TailwindCSS.
-
-📫 Reach me on LinkedIn
-
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,mysql,mongodb,excel,tableau,powerbi,github,vscode" /> </p>
-
-🚀 Projects
-🌾 Saathi – Farmer Assistant Web App
-🌱 A smart farming app with features like crop disease detection, weather & soil prediction, multilingual interface, and data visualization.
-
-⚙️ Built using React.js | Flask | ML Models | Multilingual UI | Open APIs
-
-📊 Excel Dashboards & MIS Reports
-Automated reports using Advanced Excel: Pivot Tables, Charts, VLOOKUP/XLOOKUP, Power Query
-Created business dashboards and interactive visuals for better decision-making.
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhinandan-mankotia&show_icons=true&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandan-mankotia&layout=compact&theme=radical" /> </p>
-
-🎯 Current Goals
-🎨 Build fully responsive & visually appealing websites
-
-📊 Master business data analysis using real-world datasets
-
-📂 Work on real-time data-driven web apps combining frontend + analytics
-
-🔗 Let's Connect
-<p align="center"> <a href="https://linkedin.com/in/your-link" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/abhinandan-mankotia" target="_blank"> <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://your-portfolio-link.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
-
-<p align="center"><em>“Creativity + Consistency = Impact”</em></p> ```
+<p align="center">
+  📍 Based in India | 💼 Open to relocate or remote work | 🕐 Available to join immediately
+</p>
