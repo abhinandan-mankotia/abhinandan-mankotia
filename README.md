@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abhinandan Mankotia 👋</h1>
-<h3 align="center">Aspiring Data Analyst & Frontend Web Developer | Available for full-time roles</h3>
+<h3 align="center">Data Analyst & Frontend Web Developer</h3>
 
 ---
 
